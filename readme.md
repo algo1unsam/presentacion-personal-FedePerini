@@ -10,4 +10,4 @@ Igualmente, lo que mas me gusta haces en mi tiempo libre es viciar. Si tuviese q
 Tambien me considero un fan de Marvel. Si algo esta relacionado con Marvel seguramente lo haya visto.
 
 En cuanto al estudio, pase 3 años estudiando ciencias economicas en la UBA pero me di cuenta que no era lo mio. Asi que me anote en programacion aca en la UNSAM.
-![]()
+![](https://github.com/algo1unsam/presentacion-personal-FedePerini/blob/main/imagen.jpg)
